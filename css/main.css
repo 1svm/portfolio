@@ -1693,7 +1693,7 @@ blockquote {
 
 .lm-info-block h4 {
   font-size: 16px;
-  margin-top: 10px;
+  margin: 0;
 }
 
 .g-recaptcha {
